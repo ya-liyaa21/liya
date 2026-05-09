@@ -2,6 +2,9 @@
 
 - Memahami konsep dasar jaringan komputer
   *belajar lebih giat lagi
+   ^mengikuti les mata pelajaran komputer
+   ^lebih konsentrasi dalam mata melajaran 
+   ^mengurangi bermain handphone
 - Lebih aktif saat praktik di lab
 - Mampu melakukan konfigurasi IP dan subnetting
 - Latihan instalasi dan konfigurasi server
